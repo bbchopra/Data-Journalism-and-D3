@@ -5,6 +5,7 @@ Created a dynamic scatter plot between different variables from the data set usi
 - Placed additional labels in the scatter plot and gave them click events so that users can decide which data to display. 
 - Animate the transitions of the circles locations as well as the range of the axes and the labels to the left and bottom of the chart. 
 - Included state abbreviations in the circles.
+---
 
 # Steps to run
 - Copy the folder/files to your local disk.
@@ -12,9 +13,8 @@ Created a dynamic scatter plot between different variables from the data set usi
 - Host the page at `localhost:8000` in your web browser.
 - Select the folder name where the files are placed.
 
-
-- - -
+---
 ## Copyright
 
-Bharat Chopra © UCB Boot Camp © 2019
+Bharat Chopra Â© UCB Boot Camp Â© 2019
 
