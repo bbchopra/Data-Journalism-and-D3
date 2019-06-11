@@ -1,5 +1,4 @@
 # Data-Journalism-and-D3
----
 Created a dynamic scatter plot between different variables from the data set using the D3 techniques learned in the class.
 
 - Placed additional labels in the scatter plot and gave them click events so that users can decide which data to display. 
